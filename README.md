@@ -7,8 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 clone your repository
-###run "npm -i"
-###ng serve
+run "npm -i"
+ng serve
 
 
 ### `npm start`
